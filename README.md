@@ -18,5 +18,5 @@ The goal of this project if to implement all the most important "features" and r
 
 
 
-You can watch the making of this project on https://www.twitch.tv/kishin98
+You can watch the making of this project on https://www.twitch.tv/kishin98 (Italian)
 
